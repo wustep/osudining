@@ -12,13 +12,13 @@ DROP TABLE IF EXISTS `hours`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `hours` (
   `id` int(11) NOT NULL,
-  `mon` varchar(45) DEFAULT NULL,
-  `tue` varchar(45) DEFAULT NULL,
-  `wed` varchar(45) DEFAULT NULL,
-  `thu` varchar(45) DEFAULT NULL,
-  `fri` varchar(45) DEFAULT NULL,
-  `sat` varchar(45) DEFAULT NULL,
-  `sun` varchar(45) DEFAULT NULL,
+  `mon` varchar(100) DEFAULT NULL,
+  `tue` varchar(100) DEFAULT NULL,
+  `wed` varchar(100) DEFAULT NULL,
+  `thu` varchar(100) DEFAULT NULL,
+  `fri` varchar(100) DEFAULT NULL,
+  `sat` varchar(100) DEFAULT NULL,
+  `sun` varchar(100) DEFAULT NULL,
   `notes` text,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;

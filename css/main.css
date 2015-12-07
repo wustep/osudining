@@ -8,29 +8,20 @@
 	display:block;
 }
 
-#search_div {
-	left:25%; 
-	width:50%;
-	min-width:500px;
-	margin-left:auto;
-	margin-right:auto; 
-	display:block;
-}
-
 .maindiv {
 	width:100%;
 	height:500px; 
 	margin:auto
 }
 
+
 input.search_big {
-	margin: 10px auto;
-	width:75%;
-	min-width: 500px;
+	margin: 1px auto;
+	max-width: 500px;
 }
 
+
 input.search_small {
-	min-width: 250px;
 	max-width: 450px;
 }
 
@@ -46,5 +37,4 @@ a.title {
 
 .data {
 	min-width: 400px;
-}
 }

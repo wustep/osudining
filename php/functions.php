@@ -182,7 +182,7 @@
 						}
 						if (strlen($result[$i]['location']) > 5) {
 							$map =  
-	'		<div id="map col-xs-6"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="500" height="400" src="https://maps.google.com/maps?hl=en&q='.str_replace(" ","+",$location).'&ie=UTF8&t=roadmap&z=15&iwloc=B&output=embed"></iframe></div>
+	'		<div id="col-xs-6" class="map"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="500" height="400" src="https://maps.google.com/maps?hl=en&q='.str_replace(" ","+",$location).'&ie=UTF8&t=roadmap&z=15&iwloc=B&output=embed"></iframe></div>
 	';
 						}
 					}
