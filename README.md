@@ -1,6 +1,7 @@
 # EDUdine
 
 [OHI/O](http://hack.osu.edu/) 2015 Hackathon Project - comprehensive OSU dining database website
+
 [Live Demo](http://wustep.me/dine/)
 
 # Team
