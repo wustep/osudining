@@ -2,15 +2,13 @@
 
 [OHI/O](http://hack.osu.edu/) 2015 Hackathon Project - comprehensive OSU dining database website
 
-[Live Demo](http://wustep.me/dine/)
+![osudining](http://wustep.me/assets/img/portfolio/osudining.png "osudining")
 
 # Team
 * Nick Flint - [@tallsmallone](http://github.com/tallsmallone/) - Electrical Engineering Major
 * Cailin Pitt - [@CailinPitt](http://github.com/CailinPitt/) - Computer Science Engineering Major
 * Stephen Wu - [@wustep](http://github.com/wustep/) - Computer Science Engineering Major
 
-
-![osudining](http://wustep.me/assets/img/portfolio/osudining.png "osudining")
 
 # Description
 EDUdine is a OHI/O '15 project creating a prototype for a comprehensive dining database, particularly for Ohio State University BuckID merchants and dining services. 
